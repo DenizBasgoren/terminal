@@ -1,0 +1,14 @@
+
+GNU C lib - https://sourceware.org/glibc/manual/latest/html_node/I_002fO-Primitives.html
+ascii table - https://www.physics.udel.edu/~watson/scen103/ascii.html
+utf8 encode/decode - https://www.browserling.com/tools/utf8-encode
+ascii 8bit table - https://www.ascii-code.com/
+font tool - https://fontdrop.info/?darkmode=true
+konsole manual - https://docs.kde.org/stable5/en/konsole/konsole/konsole.pdf
+xterm std - https://invisible-island.net/xterm/ctlseqs/ctlseqs.html#h2-Graphics
+fontforge - https://archlinux.org/packages/extra/x86_64/fontforge/
+vt52 emu in c# - https://github.com/kgober/VT52
+vt52 repo where i found the font - https://github.com/fritzm/vt52/tree/master/data
+vt05 ref - https://manx-docs.org/mirror/vt100.net/docs/vt05-rm/chapter2.html
+vt52 ref - http://www.bitsavers.org/pdf/dec/terminal/vt52/EK-VT5X-OP-001_DECscope_Users_Manual_Mar77.pdf
+ecma terminal std - https://www.ecma-international.org/wp-content/uploads/ECMA-48_5th_edition_june_1991.pdf
