@@ -1,6 +1,6 @@
 # Simple Terminal Emulator in C
 
-[Demo](https://denizbasgoren.github.io/terminal/demo.gif)
+![Demo](https://denizbasgoren.github.io/terminal/demo.gif)
 
 ## Features
 - Made to be as simple as possible, 600 lines of C only
